@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shakhaout-hossain.github.io/rimon-labs/sitemap.xml
